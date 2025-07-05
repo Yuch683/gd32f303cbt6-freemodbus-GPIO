@@ -1,0 +1,2 @@
+# gd32f303cbt6-freemodbus-GPIO
+gd32f303cbt6移植freemodbus控制GPIO
